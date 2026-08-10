@@ -69,7 +69,7 @@ Presents sustainability information in a format designed to make reporting and a
 
 ### Analytics
 
-![Greenzio Analytics](screenshots/analytics.png)
+![Greenzio Analytics](https://github.com/unsallabs/Greenzio/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-08-10%20131659.png)
 
 ### AI Assistant
 
